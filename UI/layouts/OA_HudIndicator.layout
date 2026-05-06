@@ -1,0 +1,20 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ Color 1 1 1 1
+ {
+  ImageWidgetClass "{68C6E204E93270EE}" {
+   Name "StatusIcon"
+   Slot FrameWidgetSlot "{68C6E204E93270C5}" {
+    PositionX 10
+    OffsetLeft 10
+    PositionY 250
+    OffsetTop 250
+    SizeX 240
+    OffsetRight -250
+    SizeY 60
+    OffsetBottom -310
+   }
+   Color 1 1 1 1
+  }
+ }
+}
